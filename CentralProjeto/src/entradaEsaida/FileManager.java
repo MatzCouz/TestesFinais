@@ -14,6 +14,14 @@ import repository.RepositoryAssociacao;
 import repository.RepositoryPessoa;
 import repository.RepositoryProjeto;
 
+/**
+ * FileManager. 
+ * Classe que gerencia a manipulação de arquivos do sistema.
+ *
+ * @author Matheus de Souza Coutinho
+ * @author Matheus Vasconcelos Figueiredo
+ */
+
 public class FileManager {
 	
 	private File pessoasBackup;
