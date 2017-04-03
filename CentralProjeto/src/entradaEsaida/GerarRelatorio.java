@@ -9,6 +9,14 @@ import java.util.Date;
 import projeto.Projeto;
 import util.Util;
 
+/**
+ * GerarRelatorio. 
+ * Classe que gera os relatórios do sistema.
+ *
+ * @author Matheus de Souza Coutinho
+ * @author Matheus Vasconcelos Figueiredo
+ */
+
 public class GerarRelatorio {
 	private static String projetotxt;
 	private static String colaboracaotxt;
